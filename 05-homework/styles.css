@@ -30,8 +30,9 @@ th {
   border-radius: 10px;
   padding-bottom: 10px;
 }
+
 .table-2 {
-  margin-bottom: 7%;
+  margin-bottom: 13%;
   height: 22%;
   width: 66%;
   text-align: left;
@@ -39,14 +40,20 @@ th {
   background-color: rgb(54, 54, 54);
 }
 .table-2 td,
-tr,
-th {
+tr {
+  border: 1px solid rgb(78, 78, 76);
   width: 33%;
   padding-left: 3%;
   height: 40px;
   padding-bottom: 10px;
 }
 
+.table-2 th {
+  width: 33%;
+  padding-left: 3%;
+  height: 40px;
+  padding-bottom: 10px;
+}
 .table-3 {
   margin-bottom: 13%;
   height: 22%;
