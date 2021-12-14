@@ -14,7 +14,7 @@
 .CookieBanners {
   font-family: "Inter";
   color: #0b2239;
-  vertical-align: "center";
+  vertical-align: middle;
   font-size: 110px;
   line-height: 133px;
 }
@@ -117,7 +117,7 @@ button {
 }
 
 .text2 a {
-  text-decoration-color: underline;
+  text-decoration: underline;
   color: #ffffff;
 }
 
