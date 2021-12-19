@@ -83,7 +83,7 @@ header a:hover {
   width: 645px;
   left: 240px;
   top: 240px;
-  border-radius: nullpx;
+  border-radius: 50px;
   font-family: Helvetica;
   font-size: 80px;
   font-style: normal;
@@ -147,7 +147,7 @@ header a:hover {
   margin: 125px 92px 40px 62px;
   left: 790px;
   top: 1028.1759643554688px;
-  border-radius: nullpx;
+  border-radius: 50px;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -403,7 +403,7 @@ footer {
   width: 405px;
   left: 240px;
   top: 3750px;
-  border-radius: nullpx;
+  border-radius: 40px;
   color: #212353;
   margin-bottom: 20px;
 }
@@ -412,7 +412,7 @@ footer {
   width: 584px;
   left: 240px;
   top: 3822px;
-  border-radius: nullpx;
+  border-radius: 40px;
   font-size: 18px;
   font-style: normal;
   font-weight: 500;
